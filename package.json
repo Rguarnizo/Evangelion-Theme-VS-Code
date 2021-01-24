@@ -1,22 +1,29 @@
 {
-    "name": "evangelion-theme",
-    "displayName": "Evangelion Theme",
-    "description": "A theme based in Evangelion, Eva 01,Eva 02,Eva 00, ",
-    "version": "0.0.1",
-    "publisher": "RuDevIO",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Eva 01 Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Eva 01 Theme-color-theme.json"
-            }
-        ]
-    }
+	"name": "evangelion-theme",
+	"displayName": "Evangelion Theme",
+	"description": "A theme based in Evangelion, Eva 01,Eva 02,Eva 00, ",
+	"version": "0.0.2",
+	"publisher": "RuDevIO",
+	"repository": "https://github.com/Rguarnizo/Evangelion-Theme-VS-Code",
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"icon": "images/icon.jpg",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Eva 01 Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Eva 01 Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "bfbe1a40-8bdc-4a3e-8c8b-556885382468",
+		"publisherDisplayName": "RuDevIO",
+		"publisherId": "ae87eae5-aa7a-4792-876d-1eeac93fc905"
+	}
 }
