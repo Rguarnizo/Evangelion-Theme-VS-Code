@@ -4,7 +4,17 @@ This is a theme created from the evangelion series color palette, for now there 
 
 To install this theme you can go to [Visual Studio Marketplace Extension Link](https://marketplace.visualstudio.com/items?itemName=RuDevIO.evangelion-theme)
 
+# News
 
+## Eva 01 Theme V2.0 Neon
+
+This is new theme based on EVA 01, made with Neon Colors, syntax highlighting and console customization.
+
+<img src="https://i.ibb.co/3R546Gs/Eva-01-v2-0.png" /><br>
+<br>
+
+---
+# Others themes
 ## Eva 01 Theme
 This theme is based on the color palette of EVA 01, purple, green, yellow in different shades. 
 
@@ -12,6 +22,10 @@ This theme is based on the color palette of EVA 01, purple, green, yellow in dif
 
 <img src="https://i.ibb.co/xHNB88R/Eva01-Theme.png" /><br>
 <br>
+
+
+
+
 
 
 

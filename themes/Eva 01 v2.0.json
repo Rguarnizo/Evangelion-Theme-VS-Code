@@ -80,11 +80,11 @@
 
         "terminal.foreground": "#e091ff",
 
-        "panel.border": "#a94cce",
+        "panel.border": "#15ff00",
         "panelTitle.activeBorder": "#55ff00",
-        "panelTitle.activeForeground": "#15ff00",
+        "panelTitle.activeForeground": "#a94cce",
 
-        "editorGroupHeader.tabsBackground": "#0a090a",
+        "editorGroupHeader.tabsBackground": "#242222",
         "tab.activeForeground": "#e091ff",
         "tab.activeBorder": "#a94cce",
 
@@ -100,7 +100,7 @@
         "editorCursor.foreground": "#15ff00",
         "editor.selectionBackground": "#e091ff2f",
 
-        "editorSuggestWidget.foreground": "#e091ff",
+        "editorSuggestWidget.foreground": "#15ff00",
         "editorHoverWidget.border": "#a94cce",
         "editorHoverWidget.foreground": "#e091ff"
 
@@ -176,7 +176,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#F5AD43"
+                "foreground": "#15ff00"
             }
         },
         {
@@ -275,7 +275,7 @@
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#ae5aaa"
+                "foreground": "#fa04d3"
             }
         },
         {
@@ -284,7 +284,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#B2CCD6"
+                "foreground": "#fa04d3"
             }
         },
         {
