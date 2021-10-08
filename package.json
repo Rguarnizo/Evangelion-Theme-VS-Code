@@ -2,7 +2,7 @@
     "name": "evangelion-theme",
     "displayName": "Evangelion Theme",
     "description": "A theme based in Evangelion, Eva 01,Eva 02,Eva 00, ",
-    "version": "0.0.3",
+    "version": "0.1.3",
     "publisher": "RuDevIO",
     "repository": "https://github.com/Rguarnizo/Evangelion-Theme-VS-Code",
     "engines": {
@@ -22,6 +22,11 @@
                 "label": "Eva 01 Theme V2.0",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Eva 01 v2.0.json"
+            },
+            {
+                "label": "Eva 02 Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EVA 02.json"
             }
         ]
     },
