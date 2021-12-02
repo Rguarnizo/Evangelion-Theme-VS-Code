@@ -13,6 +13,12 @@ This is new theme based on EVA 01, made with Neon Colors, syntax highlighting an
 <img src="https://i.ibb.co/3R546Gs/Eva-01-v2-0.png" /><br>
 <br>
 
+## Eva 02 Theme
+
+This is theme based on EVA 02, made with the this [Color Palette](https://coolors.co/b62140-e87f4a-46405a-80bda9-ece3dc).
+
+<img src="https://i.ibb.co/41zgpKD/Eva-02-Color.png" /><br>
+<br>
 ---
 # Others themes
 ## Eva 01 Theme

@@ -2,7 +2,7 @@
     "name": "evangelion-theme",
     "displayName": "Evangelion Theme",
     "description": "A theme based in Evangelion, Eva 01,Eva 02,Eva 00, ",
-    "version": "0.1.3",
+    "version": "0.2.3",
     "publisher": "RuDevIO",
     "repository": "https://github.com/Rguarnizo/Evangelion-Theme-VS-Code",
     "engines": {
